@@ -22,7 +22,7 @@
 
 ### :point_right:	Comece por aqui: 
 
-- [O que é Desenvolvimento Seguro?](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/Conceitos/Fundamentos.md#o-que-%C3%A9-desenvolvimento-seguro)
+- [O que é Desenvolvimento Seguro?](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/Conceitos/Fundamentos.md#o-que-%C3%A9-desenvolvimento-seguro) ESTUDEI 
 - [Porque Desenvolvimento Seguro?](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/Conceitos/Fundamentos.md#porque-desenvolvimento-seguro)
 - [Quais os pilares do Desenvolvimento Seguro?](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/Conceitos/Fundamentos.md#quais-os-pilares-do-desenvolvimento-seguro)
 - [Por onde começar?](https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/Conceitos/Fundamentos.md#por-onde-come%C3%A7ar)
